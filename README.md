@@ -26,7 +26,7 @@ or you can download maps
 
 RUN: you can run train.py to train your sc2 ai
 
-INPUT : 3*224*224 mini map and 13 internal parameters about worker_supply,gametime...
+INPUT : 3x224x224 mini map and 13 internal parameters about worker_supply,gametime...
 
 OUTPUT :  51 actions 
        such as train_workers,build_supply,...,attack
