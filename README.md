@@ -3,6 +3,8 @@ this a simple project for  sc2 ai
 
 this code based on burnysc2 and use this bot : https://github.com/Dotagoodgogo/sc2AI/blob/master/
 
+
+
 how to run this project? 
 
 First , we should use StarCraft II Editor.exe to download the newest ladder map 
@@ -22,8 +24,11 @@ or you can download maps
 
 
 
-Than you can run train.py to train your sc2 ai
+RUN: you can run train.py to train your sc2 ai
 
+INPUT : 3*224*224 mini map and 13 internal parameters about worker_supply,gametime...
 
-
-
+OUTPUT :  51 actions 
+       such as train_workers,build_supply,...,attack
+REINFORCE LEARNING ALGORITHM:
+D3QN(Dueling Double DQN)
