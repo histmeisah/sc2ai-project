@@ -1,0 +1,2 @@
+Time:2022-11-27 12:14:20 EP:1 Reward:105.37500000000153 Avg_reward:105.37500000000153 Epsilon:0.05 Iter:2077 Res:Result.Victory
+Time:2022-11-27 12:23:31 EP:2 Reward:9.239999999999972 Avg_reward:57.30750000000075 Epsilon:0.05 Iter:1738 Res:Result.Defeat
