@@ -18,7 +18,7 @@ when we open this , please log in your blz account and search the map name which
 ![image](https://user-images.githubusercontent.com/49554454/217540537-db80aca9-aec7-4d30-b4f9-f4dc818a1697.png)
 
 
-than put maps to your sc2 file (if your sc2 file didnt exist , please create a new one) 
+then put maps to your sc2 file (if your sc2 file didnt exist , please create a new one) 
 
 ![image](https://user-images.githubusercontent.com/49554454/217539085-d14f0177-33a4-42f1-ac7d-ac9f61ad29f2.png)
 
