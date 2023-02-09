@@ -1,7 +1,9 @@
 # sc2ai-project
 this a simple project for  sc2 ai 
 
-this code based on burnysc2 and use this bot : https://github.com/Dotagoodgogo/sc2AI/blob/master/
+this code based on burnysc2 ,use this bot : https://github.com/Dotagoodgogo/sc2AI/blob/master/ and my classmate`s work about D3QN sc2 
+
+this idea comes from https://www.youtube.com/@sentdex
 
 
 
@@ -30,5 +32,6 @@ INPUT : 3x224x224 mini map and 13 internal parameters about worker_supply,gameti
 
 OUTPUT :  51 actions 
        such as train_workers,build_supply,...,attack
+
 REINFORCE LEARNING ALGORITHM:
 D3QN(Dueling Double DQN)
