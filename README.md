@@ -36,7 +36,7 @@ OUTPUT :  51 actions
 REINFORCE LEARNING ALGORITHM:
 D3QN(Dueling Double DQN)
 
-#2023/3/12
+# 2023/3/12
 add new network structure by ChatGPT,now it has efficientnet+transformer+lstm+d3qn
 
 add new zergagent,but not fit new network
