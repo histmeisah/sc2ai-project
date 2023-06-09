@@ -1,7 +1,7 @@
 # sc2ai-project
 this a simple project for  sc2 ai 
 
-this code based on burnysc2 ,use this bot : https://github.com/Dotagoodgogo/sc2AI/blob/master/ and my classmate`s work about D3QN sc2 
+this code based on burnysc2 ,use this bot : https://github.com/Dotagoodgogo/sc2AI/blob/master/ and my classmate(jiaxiang lee)`s work about D3QN sc2 
 
 this idea comes from https://www.youtube.com/@sentdex
 
@@ -42,3 +42,14 @@ add new network structure by ChatGPT,now it has efficientnet+transformer+lstm+d3
 add new zergagent,but not fit new network
 
 add new informations with protoss agent 
+
+# 2023/6/9
+i have so many leasons to learn so dont have enough time to update.these codes have completed 3 months ago.
+
+ppo agent has added but with some bug with training , i will adjust it. ppo agent is powered by ppo-max,an open source ppo code thanks to his work ,here is link https://github.com/Lizhi-sjtu/DRL-code-pytorch
+
+now we have more information from burnysc2 ,details will introduce in next time
+
+add some rule agents contain 3 race: protoss, zerg, terran.But terran agent still has bug and dont fix it .
+
+
