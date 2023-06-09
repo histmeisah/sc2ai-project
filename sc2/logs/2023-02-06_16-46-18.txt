@@ -1,4 +1,0 @@
-Time:2023-02-06 16:51:18 EP:1 Reward:641.9999999999997 Avg_reward:641.9999999999997 Epsilon:0.05 Iter:5231 Res:Result.Victory
-Time:2023-02-06 16:52:59 EP:2 Reward:0.06 Avg_reward:321.0299999999998 Epsilon:0.05 Iter:2701 Res:Result.Defeat
-Time:2023-02-06 16:53:58 EP:3 Reward:0 Avg_reward:214.01999999999987 Epsilon:0.05 Iter:1441 Res:Result.Defeat
-Time:2023-02-06 16:55:36 EP:4 Reward:0 Avg_reward:160.5149999999999 Epsilon:0.05 Iter:2719 Res:Result.Defeat

@@ -1,0 +1,6 @@
+Time:2023-03-18 20:23:25 EP:1 Reward:0.07500000000000001 Avg_reward:0.07500000000000001 Epsilon:0.05 Iter:2445 Res:Result.Defeat
+Time:2023-03-18 20:29:53 EP:2 Reward:0 Avg_reward:0.037500000000000006 Epsilon:0.05 Iter:2589 Res:Result.Defeat
+Time:2023-03-18 20:34:22 EP:3 Reward:0 Avg_reward:0.025000000000000005 Epsilon:0.05 Iter:1569 Res:Result.Defeat
+Time:2023-03-18 20:37:53 EP:4 Reward:0 Avg_reward:0.018750000000000003 Epsilon:0.05 Iter:1240 Res:Result.Defeat
+Time:2023-03-18 20:41:13 EP:5 Reward:0 Avg_reward:0.015000000000000003 Epsilon:0.05 Iter:1134 Res:Result.Defeat
+Time:2023-03-18 20:44:42 EP:6 Reward:0 Avg_reward:0.012500000000000002 Epsilon:0.05 Iter:1202 Res:Result.Defeat

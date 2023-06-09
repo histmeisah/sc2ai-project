@@ -1,1 +1,0 @@
-Time:2023-02-06 17:08:51 EP:1 Reward:1.5000000000000007 Avg_reward:1.5000000000000007 Epsilon:0.05 Iter:4436 Res:Result.Defeat
